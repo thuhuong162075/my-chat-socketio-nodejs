@@ -1,0 +1,21 @@
+{
+  "name": "chatbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie": "^0.4.1",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "md5": "^2.3.0",
+    "moment": "^2.27.0",
+    "shortid": "^2.2.15",
+    "socket.io": "^2.3.0"
+  }
+}
